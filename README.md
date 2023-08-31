@@ -1,2 +1,2 @@
-# NLP_Intelligent-system-
+# NLP_Intelligent-system
 Intelligent system using wisdom AI
