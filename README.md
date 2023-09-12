@@ -21,4 +21,7 @@ Project Set up as follows
 
     python app.py
 
+Open browser http://localhost:5000 to access application
+
+ Using Interface upload video anf choose options click submit button to get result.
 
