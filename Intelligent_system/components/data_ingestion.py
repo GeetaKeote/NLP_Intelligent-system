@@ -1,7 +1,7 @@
 import os, sys
 import datasets
-from Intelligent_system.exception import CustomException
-from Intelligent_system.logger import logger
+from intelligent_system.exception import CustomException
+from intelligent_system.logger import logger
 
 class DataIngestion:
     def __init__(self, dataset_name, subset, save_folder):

@@ -1,7 +1,7 @@
 import sys
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
-from Intelligent_system.exception import CustomException
-from Intelligent_system.logger import logger
+from intelligent_system.exception import CustomException
+from intelligent_system.logger import logger
 
 
 class Summarizer:

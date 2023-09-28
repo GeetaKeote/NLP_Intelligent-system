@@ -1,0 +1,3 @@
+from intelligent_system.pipeline import run_training_pipeline
+
+run_training_pipeline()
